@@ -1,0 +1,36 @@
+{
+    "players": [
+        {
+            "name": "PLAYER 1",
+            "Score": 120,
+            "Boss": "v",
+            "Pause": "p",
+            "Up": "Up",
+            "Down": "Down",
+            "Right": "Right",
+            "Left": "Left"
+        },
+        {
+            "name": "PLAYER 2",
+            "Score": 280,
+            "Boss": "b",
+            "Pause": "p",
+            "Up": "Up",
+            "Down": "Down",
+            "Right": "Right",
+            "Left": "Left"
+        }
+    ],
+    "resume": [
+        {
+            "name": "PLAYER 1",
+            "Score": 30,
+            "Boss": "v",
+            "Pause": "p",
+            "Up": "Up",
+            "Down": "Down",
+            "Right": "Right",
+            "Left": "Left"
+        }
+    ]
+}

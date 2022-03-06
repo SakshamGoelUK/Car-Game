@@ -1,0 +1,36 @@
+COPYRIGHT INFORMATION
+The sole purpose of this document is to attribute all the sources that have been used to build this game and to 
+exemplify that all the sources are copyright free.
+A list of all the images is present below along with their sources.
+
+A) These images were created by me on Canva Design Website: https://www.canva.com/ .All icons and images on canva 
+   are free for commercial and non commercial use.You can have another look at it on this link:
+   https://www.canva.com/policies/free-media/
+   1) btn1.png
+   2) btn2.png
+   3) btn3.png
+   4) btn4.png
+   5) dazzle.png
+   6) enter_name.png
+   7) instructions.png
+   8) loading.png
+   9) over_screen.png
+  10) play_again.png
+  11) roads6.png
+  12) start.png
+  13) the_game.png
+  14) hello.png
+
+B) The following images have been downloaded from varying websites and I mention the links to the photos and the copyright notice of the company.All the photos are copyright free.
+   1) car7.png  Links: 1) https://creativecommons.org/publicdomain/zero/1.0/
+                       2) https://freesvg.org/yellow-car-top-view-remix
+   2) car9.png Links: 1) https://www.pngaaa.com/dmca
+                      2) https://www.pngaaa.com/detail/1444784
+   3) Untitled_design__10_.png Links: 1) https://www.pngaaa.com/dmca
+                                      2) https://www.pngaaa.com/detail/1444746
+   4) Untitled_design__11_.png Links: 1) https://www.pngaaa.com/dmca
+                                      2) https://www.pngaaa.com/detail/1444737
+   5) Untitled_design__12_.png Links: 1) https://www.pngaaa.com/dmca
+                                      2) https://www.pngaaa.com/detail/2031983
+   6) Untitled_design__13_.png Links: 1) https://www.pngaaa.com/dmca
+                                      2) https://www.pngaaa.com/detail/2031983
